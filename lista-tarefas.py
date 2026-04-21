@@ -102,7 +102,7 @@ def sair():
 1 - sair
 2 - ficar    
     """)
-    sair = int(input("Nesta versão não possui salvamento !, Deseja sair mesmo assim ?:  "))
+    sair = int(input("Deseja Sair ?: "))
     if sair == 1:
         salvar()
         print("Saiando ....")
