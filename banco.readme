@@ -1,0 +1,18 @@
+# Sistema Bancário em Python
+
+Um sistema bancário simples feito em Python usando SQLite e orientação a objetos.
+
+## 🚀 Funcionalidades
+
+- Cadastro de contas
+- Login de usuários
+- Visualização de saldo
+- Remoção de contas
+- Menu interativo no terminal
+- Banco de dados SQLite
+
+## 🛠 Tecnologias usadas
+
+- Python
+- SQLite3
+- Programação Orientada a Objetos (POO)
